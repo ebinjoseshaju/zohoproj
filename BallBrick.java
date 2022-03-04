@@ -3,9 +3,6 @@ import java.util.Scanner;
 
 /**
  * Java Program to initialize and print two dimensional array in Java.
- * 
- * @author WINDOWS 8
- *
  */
 class Ball {
 
