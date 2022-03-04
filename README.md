@@ -1,4 +1,4 @@
-# For my zoho level 1 test I built this Ball Brick program using java, i picked java because of ease of defining and calling classes
+# For my zoho level 1 test I built this Ball Brick program using java, i picked java because of ease of defining and using functions
 I used VS Code to write and debug but any other code editor should work fine as well
 
 Running Instruction
