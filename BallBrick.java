@@ -333,18 +333,18 @@ class Ball {
         return true;
     }
 
-    public static boolean isNumeric(String string) {
-        //int intValue;
+    public static boolean isNumeric(String str) {
+        int intValue;
 
         // System.out.println(String.format("Parsing string: \"%s\"", string));
 
-        if (string == null || string.equals("")) {
+        if (str == null || str.equals("")) {
             // System.out.println("String cannot be parsed, it is null or empty.");
             return false;
         }
 
         try {
-            intValue = Integer.parseInt(string);
+            intValue = Integer.parseInt(str);
             return true;
         } catch (NumberFormatException e) {
             // System.out.println("Input String cannot be parsed to Integer.");
